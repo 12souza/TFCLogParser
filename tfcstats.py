@@ -437,7 +437,7 @@ async def test(ctx):
                     + "\n\nCrash Test Dummy: " + deathsOrder[0] + " had the most deaths with " + str(playerStats[deathsOrder[0]][1]) + " deaths"
                     + "\n\nGrenade Whore: " + grenWhoreOrder[0] + " had " + str(playerStats[grenWhoreOrder[0]][9]) + " kills with grenades" 
                     + "\n\nImposter: " + imposterOrder[0] + " had the most team kills with " + str(playerStats[imposterOrder[0]][0]) + " team kills```" )
-client.run('NzU3MDgzNTkyNzM1MDY0MTY2.X2bPCg.QOndInrTzUQQMwNJF1BpSsnUarI')
+client.run('TOKEN')
 
 
 #L 07/18/2020 - 16:37:17: "Woozle Wozzle?<3><STEAM_0:1:31257069><Red>" killed "CoachSouz<1><STEAM_0:1:2278493><Blue>" with "supershotgun"
